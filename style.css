@@ -1,0 +1,97 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: black;
+}
+
+img {
+    height: 100px;
+    width: 120px;
+}
+
+header,
+h1 {
+    text-align: center;
+}
+
+.catalog {
+    text-align: center;
+
+}
+
+.vidgyky {
+    text-align: center;
+
+}
+
+.znayty {
+    text-align: center;
+
+}
+
+.map {
+    text-align: center;
+
+}
+
+.fmodel {
+    float: right;
+}
+
+.opys {
+    text-align: left;
+
+}
+
+.vidgykyfirst {
+    border-radius: 10px;
+
+}
+
+.vidgykysecond {
+    border-radius: 10px;
+
+}
+
+.adress {
+    text-align: center;
+
+}
+
+.adresstwo {
+    text-align: center;
+}
+
+.instagram {
+    height: 50px;
+    width: 50px;
+}
+
+.raw{
+text-align: left;
+
+}
+
+.imgcamry{
+display: flex;
+justify-content: center;
+}
+
+.bogdan{
+text-align: center;    
+}
+
+.bogdanvidgyk{
+text-align: right;
+
+}
+
+.andryi{
+text-align:center;
+}
+
+.andryividgyk{
+text-align: right;    
+}
